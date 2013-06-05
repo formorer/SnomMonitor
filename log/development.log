@@ -1,0 +1,5 @@
+[Wed Jun  5 14:46:14 2013] [info] Listening at "http://*:3000".
+[Wed Jun  5 14:46:26 2013] [debug] Your secret passphrase needs to be changed!!!
+[Wed Jun  5 14:46:26 2013] [debug] GET /ring (Mozilla/5.0 (X11; Linux x86_64; rv:17.0) Gecko/20100101 Firefox/17.0 Iceweasel/17.0.1).
+[Wed Jun  5 14:46:26 2013] [debug] Routing to controller "SnomMonitor::Snom" and action "ring".
+[Wed Jun  5 14:46:26 2013] [debug] 200 OK (0.079360s, 12.601/s).
